@@ -4,6 +4,7 @@ import java.util.*;
 
 public class Stringaufrufen {
 
+@SuppressWarnings("resource")
 public static void main(String[] args) {
 
 Scanner scan = new Scanner(System.in);
