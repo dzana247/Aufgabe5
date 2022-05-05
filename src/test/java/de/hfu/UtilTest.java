@@ -1,10 +1,7 @@
 package de.hfu;
 import org.junit.Test;
 
-import junit.framework.TestCase;
-
-
-public class UtilTest extends TestCase {
+public class UtilTest  {
     
 
 	@Test(expected=IllegalArgumentException.class)
